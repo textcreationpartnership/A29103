@@ -1,0 +1,377 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nature of that salvation, which the Gospel offereth, and the method of obtaining it, by a mediator a sermon preach'd in the Cathedral Church of St. Paul, March the 6th, 1698/9, being the third, for this year, of the lecture founded by the Honourable Robert Boyle, Esq. / by Samuel Bradford ...</title>
+            <author>Bradford, Samuel, 1652-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29103</idno>
+            <idno type="STC">Wing B4116</idno>
+            <idno type="STC">ESTC R19719</idno>
+            <idno type="EEBO-CITATION">12115745</idno>
+            <idno type="OCLC">ocm 12115745</idno>
+            <idno type="VID">54295</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29103)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54295)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 759:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nature of that salvation, which the Gospel offereth, and the method of obtaining it, by a mediator a sermon preach'd in the Cathedral Church of St. Paul, March the 6th, 1698/9, being the third, for this year, of the lecture founded by the Honourable Robert Boyle, Esq. / by Samuel Bradford ...</title>
+                  <author>Bradford, Samuel, 1652-1731.</author>
+               </titleStmt>
+               <extent>[5], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Timothy, 1st, I, 15 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Salvation --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54295:1"/>
+            <pb facs="tcp:54295:1"/>
+            <p>
+               <hi>The Nature of that Salvation, which the Goſpel offereth; and the Method of obtaining it, by a Mediator.</hi> A SERMON Preach'd in the Cathedral Church of St. <hi>PA<g ref="char:V">Ʋ</g>L, March</hi> the 6th, 1698/9. Being the Third, for this Year, of the Lecture, Founded by the Honourable <hi>Robert Boyle,</hi> Eſq;</p>
+            <p>By <hi>SAMUEL BRADFORD,</hi> M. A. Rector of St. <hi>Mary le Bow.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurst,</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide,</hi> near <hi>Mercers Chappel,</hi> 1699.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:54295:2"/>
+            <p>Mr. <hi>BRADFORD</hi>'s SERMON, Preached at St. Paul's, March <hi>the</hi> 6th. 1698/9.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:54295:3"/>
+            <pb facs="tcp:54295:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:54295:4"/>
+            <pb n="1" facs="tcp:54295:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 TIM. I. 15.</hi>
+                  </bibl>
+                  <p>This is a faithful ſaying, and worthy of all acceptation, that Chriſt Jeſus came into the World, to ſave Sin<g ref="char:EOLhyphen"/>ners, —</p>
+               </q>
+            </epigraph>
+            <p>IN treating on theſe Words, I propos'd, by God's Aſſiſtance, to make good the Apoſtle's aſſertion, <hi>viz.</hi> that the Saying mention'd by him is both certainly true, and fit to be en<g ref="char:EOLhyphen"/>tertain'd by us with all readineſs and thankfulneſs; and <hi>that,</hi> whether we conſider the intrinſick Evi<g ref="char:EOLhyphen"/>dence it carries along with it, or the external At<g ref="char:EOLhyphen"/>teſtation which hath been given to it.</p>
+            <p>I began with its intrinſick Evidence, <hi>viz.</hi> its credibility from its manifeſt agreeableneſs to thoſe Notions which we naturally have concerning God and our ſelves. And to make this appear, I pro<g ref="char:EOLhyphen"/>pos'd the following Method.</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> To conſider who the Perſons are, whom <hi>Chriſt Jeſus came into the VVorld to ſave.</hi>
+               </item>
+               <item>
+                  <hi>Secondly,</hi> What kind of Salvation he propoſeth to them.</item>
+               <pb n="2" facs="tcp:54295:5"/>
+               <item>
+                  <hi>Thirdly,</hi> In what way and manner he hath, by his <hi>coming into the world,</hi> wrought out this <hi>Salvation</hi> for them.</item>
+            </list>
+            <p>The <hi>firſt</hi> of theſe I have diſpatch'd, ſhewing, that the Perſons, whom <hi>Chriſt Jeſus came into the VVorld to ſave,</hi> were both <hi>Men</hi> and <hi>Sinners,</hi> under each of which denominations, I endeavour'd to make it appear, that they were fit Objects of the Divine Care and Compaſſion to be exerciſed in ſome extraordinary manner.</p>
+            <p>I proceed now to conſider in the <hi>ſecond</hi> place, what kind of Salvation Chriſt Jeſus propoſeth to theſe Creatures, concerning which I ſhall not need to add much, after what hath been diſcours'd upon the former head. For by a little reflection upon the condition of Sinners, 'twill be eaſie to diſcern, what kind of Salvation they ſtood in need of, which is the very ſame, which our Saviour hath propos'd to us in his Goſpel, his deſign in coming into the World being to provide for the neceſſities of fallen Men; with reference to which Neceſſities <hi>Salvation</hi> muſt imply both a Deliverance from thoſe many Evils, to which Sin had expoſed them; and a Reſtitution of thoſe many Bleſſings, which by their tranſgreſſion they had forfeited.</p>
+            <p>Thus for Inſtance; The <hi>Salvation</hi> of Men by Jeſus Chriſt conſiſts in his delivering them from the juſt diſpleaſure of their Maker, and all the terrible Effects of it; together with a complete Reſtorati<g ref="char:EOLhyphen"/>on of them to the Divine favour, and giving them a Title to all thoſe Bleſſings which are proper for humane Nature, when accepted of God; in the
+<pb n="3" facs="tcp:54295:5"/>ſetting them free from all that diſorder and irre<g ref="char:EOLhyphen"/>gularity which had been introduc'd into the ſe<g ref="char:EOLhyphen"/>veral Faculties of their Souls, together with the diſſatisfaction and uneaſineſs of Mind which neceſ<g ref="char:EOLhyphen"/>ſarily follow'd, as alſo from thoſe inconveniencies and miſeries to which their Bodies likewiſe were expos'd, either as a conſequence or a puniſhment of the corruption of their Minds; in reſtoring per<g ref="char:EOLhyphen"/>fectly that frame and temper of Spirit, which is natural to an intelligent and reaſonable Creature, together with that healthful and vigorous ſtate of Body, that ſound conſtitution of the whole Man, which would have been the Effect or the Reward of Innocency and Integrity.</p>
+            <p>In a word, <hi>Salvation</hi> conſiſts in reconciling God to Men, and Men to God, and in all the bleſſed Fruits of ſuch a Reconciliation; which how many and how great they will be, we are not able in this imperfect State ſo much as to conjecture. This will be beſt underſtood, by ſuch as ſhall partake of this Salvation, when it ſhall be fully accompliſhed: In the mean time, it may ſatisfie and encourage us to believe, that they will bear a proportion to the Bounty of God, and the Capacities of Men.</p>
+            <p>And as this is the <hi>Salvation,</hi> which the Goſpel offereth to every particular Man to whom it is Preach'd, ſo it aſſures us, that all thoſe who ſhall embrace the offer, ſhall be thus ſaved; and that the conſequence of this will be a Renovation of this part of the World, which has been ſo miſerably diſorder'd by the Sins of Men, a Reſtitution of whatſoever has been decay'd in it, the expelling ſin and miſery out of it, the ſubduing and confining
+<pb n="4" facs="tcp:54295:6"/>the great Enemy of God and Man, who has ſo long uſurp'd dominion over it,
+<note place="margin">Rom. 8.20,</note> the <hi>delivering the Crea<g ref="char:EOLhyphen"/>ture it ſelf,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="21,"/> even this <hi>whole</hi> lower <hi>Creation,</hi> from that <hi>vanity</hi> and <hi>bondage of Corruption,</hi> to which it is at preſented <hi>ſubjected,</hi> and under which <hi>it groans and travelleth in pain,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="22"/> into <hi>a glorious Liberty;</hi> in a word,
+<note place="margin">2 Pet. 3.21.</note> the <hi>creating New Heavens and a New Earth, wherein</hi> nothing but <hi>Righteouſneſs ſhall dwell;</hi> and finally the complete and everlaſting happineſs of an innumerable company of intelligent and reaſon<g ref="char:EOLhyphen"/>able Creatures, who by the craft of their ſubtile Enemy, and through their own weakneſs and folly, had once fallen from God, and the ſtate in which he had placed them, and been in imminent danger of utter Perdition.</p>
+            <p>All this is ſo evidently propos'd by the Goſpel of our Saviour, as the deſign of his Undertaking, and ſo expreſly and fully declar'd thereby, that I need not ſpend time in producing any particular Proofs.</p>
+            <p>And all this is without queſtion highly worthy of ſo great and ſo good a Being as God is.</p>
+            <p>Had the Chriſtian Revelation told us, that Al<g ref="char:EOLhyphen"/>mighty God had ſent his only-begotten Son from Heaven, only to ſecure to us the pleaſures of the <hi>Elyſian</hi> Fields, or a <hi>Mahometan</hi> Paradice, to pro<g ref="char:EOLhyphen"/>vide for us a full and perpetual Enjoyment of Sen<g ref="char:EOLhyphen"/>ſual Entertainments and Delights; whoſoever had any juſt thoughts of the divine, or humane Na<g ref="char:EOLhyphen"/>ture, might reaſonably have diſputed, nay boldly denyed the divinity of ſuch a Revelation. But when on the contrary it aſſures us, that our Savi<g ref="char:EOLhyphen"/>our came into the World with ſuch noble and ge<g ref="char:EOLhyphen"/>nerous
+<pb n="5" facs="tcp:54295:6"/>deſigns as theſe, to cauſe the diſpleaſure of God to ceaſe, to heal the diſeaſes of immaterial and immortal Spirits, to repair the divine Image in them, to reſtore both them and the Tabernacles they ſojourn'd in to their primitive Integrity and Soundneſs, to repair the ruins of Nature, to make the Beauties of the Creation in this lower World conſpicuous, to deſtroy the Works of the Devil, to recover ſuch of God's Creatures as ſhould be found capable of a Recovery, to introduce and ſettle E<g ref="char:EOLhyphen"/>verlaſting Righteouſneſs and Peace, and finally to make a conſiderable number of the children of Men Eternally happy in the Enjoyment of their Maker; theſe are all of them things ſo well be<g ref="char:EOLhyphen"/>coming the Majeſty and the Benignity of the E<g ref="char:EOLhyphen"/>verlaſting Father, and his only-begotten Son, and at the ſame time ſo beneficial and grateful to hu<g ref="char:EOLhyphen"/>mane Nature, that we have all the reaſon in the World to hearken to ſuch a Revelation as this, and to be well diſpos'd to receive it as coming from God.</p>
+            <p>And this again renders the <hi>Saying</hi> in the Text ſtill more <hi>credible,</hi> when we thus conſider what kind of <hi>Salvation</hi> that is, which <hi>Chriſt Jeſus</hi> offereth to <hi>Sinners.</hi>
+            </p>
+            <p>But becauſe the main ſtreſs, with reſpect to the intrinſick Evidence of this <hi>Saying,</hi> will lie upon what I have to offer upon the <hi>third</hi> general Head I pro<g ref="char:EOLhyphen"/>poſed, I therefore proceed to that, deſigning to inſiſt more largely and particularly upon it, <hi>viz.</hi> to conſider in what way and manner <hi>Chriſt Jeſus</hi> by his <hi>coming into the world</hi> hath wrought out this <hi>Salvation</hi> for <hi>Sinners.</hi>
+            </p>
+            <pb n="6" facs="tcp:54295:7"/>
+            <p> The Nature of <hi>Man,</hi> and the condition of <hi>Sin<g ref="char:EOLhyphen"/>ners,</hi> as you have heard, make it credible, that God ſhould concern himſelf for their Recovery. 'Tis alſo credible, that if Almighty God ſhould offer <hi>Salvation</hi> to Men, it would be ſuch a kind of Salvation as I have been deſcribing: But beſides all this, the Method in which our Lord hath obtain<g ref="char:EOLhyphen"/>ed this Salvation for us is ſo excellent in it ſelf, ſo ſuitable to the nature of things, ſo agreeable to all juſt apprehenſions both concerning God and our ſelves, ſo well accommodated to our neceſſities and our reaſonable deſires, that I am verily perſwaded, nothing but a want of underſtanding it can occa<g ref="char:EOLhyphen"/>ſion any reaſonable man to heſitate at the belief of it.</p>
+            <p>I am very ſenſible, before I enter upon this Ar<g ref="char:EOLhyphen"/>gument, that we ignorant and weak Creatures are not able to account for the Works of our Maker. Even the leaſt of his Works in Creation and Pro<g ref="char:EOLhyphen"/>vidence infinitely exceeds our Comprehenſion; and much more the wonders of our Redemption by Jeſus Chriſt. We are not capable of diving into all the depths of this admirable Diſpenſation, nor of ſpying out all the reaſons and excellencies of it. But yet ſo much we may diſcern, as may cauſe us juſtly to admire and adore the divine Perfections diſplay'd therein, and may ſtrongly incline us to believe the Divinity of this Revelation, even before we come to conſider the external Atteſtation which it hath receiv'd from God. This therefore is next in order to be done, <hi>viz.</hi> to contemplate the Me<g ref="char:EOLhyphen"/>thod in which <hi>Chriſt Jeſus</hi> by his <hi>coming into the world ſaveth Sinners,</hi> and with Modeſty and Re<g ref="char:EOLhyphen"/>verence
+<pb n="7" facs="tcp:54295:7"/>to inquire into the Way and Manner of our <hi>Salvation</hi> by the Goſpel.</p>
+            <p>Now the moſt comprehenſive Notion we can frame to our ſelves of our bleſſed Saviour's Un<g ref="char:EOLhyphen"/>dertaking is, that he acted as a <hi>Mediator</hi> between God and Men; and therefore by conſidering what the Office of a <hi>Mediator</hi> is, and how our Lord ex<g ref="char:EOLhyphen"/>ecuted that Office, we ſhall be the better able to underſtand the Method of our Salvation by him.</p>
+            <p>That our Lord ſuſtein'd the Character of a <hi>Mediator,</hi> is evident from the account we have of his Undertaking, throughout the Scriptures. Thoſe Perſons, who in the Old Teſtament are menti<g ref="char:EOLhyphen"/>on'd as Types and Repreſentatives of the Meſſiah, were divers of them a ſort of <hi>Mediators</hi> between God and the People of <hi>Iſrael. Moſes</hi> the great Lawgiver of the <hi>Jews</hi> was apparently a Figure of Chriſt in this reſpect; as he managed all affairs between God and that People, receiving and deli<g ref="char:EOLhyphen"/>vering Meſſages from God to them, and again pre<g ref="char:EOLhyphen"/>ſenting their Addreſſes to God, and frequently making ſupplications on their behalf. And there<g ref="char:EOLhyphen"/>fore the Apoſtle gives him this Title, when he ſays, that <hi>the Law was ordain'd by Angels,</hi>
+               <note place="margin">Gal. 3.19.</note> 
+               <hi>in the hands of a Mediator,</hi> meaning <hi>Moſes.</hi> The <hi>Levi<g ref="char:EOLhyphen"/>tical</hi> Prieſts were ſo many Types of our Lord, as they were a ſort of <hi>Mediators</hi> between God and the <hi>Iſraelites,</hi> being appointed to expound the Law of God to them, to bleſs them in his Name, and to offer up Sacrifices together with Prayers and Praiſes to God upon their account. Their High Prieſt had in an eminent manner this Cha<g ref="char:EOLhyphen"/>racter, exerciſing the <hi>Mediatorial</hi> Function, as a
+<pb n="8" facs="tcp:54295:8"/>ſpecial repreſentative of the Meſſiah, when he went <hi>alone once every year</hi> into the <hi>ſecond Tabernacle,</hi>
+               <note place="margin">Heb. 9.7.</note> or holy of holies, upon the great day of Expiation, <hi>not without bloud, which he offer'd</hi> not only <hi>for him<g ref="char:EOLhyphen"/>ſelf,</hi> but alſo <hi>for the errors of the People.</hi>
+            </p>
+            <p>As to the New Teſtament, it may ſeem ſuper<g ref="char:EOLhyphen"/>fluous to recite from thence any particular Proofs, that our Saviour acted as a <hi>Mediator</hi> between God and Men; 'tis his Character throughout that Volume.
+<note place="margin">1 Tim. 2.5.</note> 
+               <hi>There is,</hi> ſaith St. <hi>Paul, One God, and one Mediator between God and Men, the Man Chriſt Jeſus.</hi> The Author to the <hi>Hebrews</hi> making a com<g ref="char:EOLhyphen"/>pariſon between the High-Prieſts under the Law, and our great High-Prieſt under the Goſpel, ſaith of him,
+<note place="margin">Hen. 8.6.</note> that <hi>he hath obtain'd a more excellent Mini<g ref="char:EOLhyphen"/>ſtry</hi> than theirs, <hi>by how much alſo he is the Mediator of a better Covenant.</hi> He calls him again more than once,
+<note place="margin">chap. 9.15. chap. 12.24.</note> 
+               <hi>the Mediator of the New Teſtament,</hi> or <hi>Covenant.</hi> And to add no more, St. <hi>Paul,</hi> though he does not there uſe the Word <hi>Mediator,</hi> yet he expreſſes the ſenſe of it very emphatically, where he ſays,
+<note place="margin">1 Cor. 8.6.</note> 
+               <hi>There is but one God, the Father, of whom are all things and we</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>for,</hi> or <hi>to</hi> him: <hi>and one Lord Jeſus Chriſt, by whom are all things, and we</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>by him;</hi> in which words he evidently op<g ref="char:EOLhyphen"/>poſeth the <hi>one Lord</hi> or <hi>Mediator</hi> of Chriſtians, to the <hi>many Lords,</hi> or <hi>Mediators</hi> of the Gentiles, mention'd in the preceding Verſe; and in ſaying that <hi>all things,</hi> particularly <hi>we</hi> Chriſtians are <hi>by him,</hi> he plainly gives him the Character of a <hi>Media<g ref="char:EOLhyphen"/>tor.</hi>
+            </p>
+            <p>What the Office of a <hi>Mediator</hi> is, we all know, <hi>viz.</hi> to make up a difference between two Parties,
+<pb n="9" facs="tcp:54295:8"/>and in order to that, equitably and impartially to conſider the real Intereſts and the juſt pretenſions on each ſide, and to tranſact matters ſo, that both may be ſatisfied; that if any injury has been done, it may, as far as 'tis poſſible, be repaired; that what<g ref="char:EOLhyphen"/>ſoever diſpleaſure has been conceiv'd may be re<g ref="char:EOLhyphen"/>mov'd; that whatſoever miſchief has been produc'd, it may be prevented for the future; in a word, that all things may be managed ſuitably to the conditi<g ref="char:EOLhyphen"/>on, and agreeably to the expectation of the Parties concern'd.</p>
+            <p>But before we come to conſider the particular way and manner in which our great <hi>Mediator</hi> hath diſcharg'd this his Undertaking, it may not be a<g ref="char:EOLhyphen"/>miſs firſt to ſhew in the general, that it was per<g ref="char:EOLhyphen"/>fectly agreeable both to the nature of God, and of fallen Man, that there ſhould be a <hi>Mediator</hi> to tranſact this great affair of reconciling this Apo<g ref="char:EOLhyphen"/>ſtate Creature to his Maker.</p>
+            <p>That this hath been the general Apprehenſion of Mankind, that it becomes us to approach to God by a <hi>Mediator,</hi> is fully evident from all the Records of antient and almoſt univerſal Practice. The Di<g ref="char:EOLhyphen"/>ſtinction between <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the ſuperior Gods, and Daemons, among the Pagan Theologers is well known, and how they made the latter a ſort of <hi>Mediators</hi> between the Gods and Men. <hi>Plutarch</hi> is very expreſs to this purpoſe, where he mentions the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">
+                  <hi>Plutarch.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and he on<g ref="char:EOLhyphen"/>ly makes it a Queſtion, whether thoſe who aſſert<g ref="char:EOLhyphen"/>ed this Doctrine deriv'd it from <hi>Zoroaſter</hi> and the <hi>Magi,</hi> or from <hi>Orpheus</hi> and the <hi>Thracians,</hi> or whe<g ref="char:EOLhyphen"/>ther it had an <hi>Egyptian</hi> or <hi>Phrygian</hi> original; but
+<pb n="10" facs="tcp:54295:9"/>he takes it for granted it was of the utmoſt Anti<g ref="char:EOLhyphen"/>quity, and venerable upon that account, as well as reaſonable in it ſelf. And even thoſe Pagan Philo<g ref="char:EOLhyphen"/>ſophers, who conceiv'd moſt worthily of the Di<g ref="char:EOLhyphen"/>vine Nature, and acknowledg'd one Supreme God over all, yet at the ſame time allowed and pra<g ref="char:EOLhyphen"/>ctis'd the worſhip of inferior Deities, as a kind of <hi>Mediators</hi> between the Sovereign God and mortal men, as it were eaſie to ſhew from the School of <hi>Plato.</hi>
+            </p>
+            <p>As to the original of this Notion, and particu<g ref="char:EOLhyphen"/>larly whether it became ſo univerſal from a pri<g ref="char:EOLhyphen"/>mitive Tradition, ever ſince the Promiſe made to our firſt Parents,
+<note place="margin">Gen. 3.15.</note> of <hi>the ſeed of the woman,</hi> and the appointment of expiatory Sacrifices (as is probable) at the ſame time, I ſhall not venture to determine; tho' to ſuch with whom the Scripture Records have their juſt weight this appears moſt likely. But be that as it will; what I at preſent inſiſt up<g ref="char:EOLhyphen"/>on is, that this is agreeable to the natural Appre<g ref="char:EOLhyphen"/>henſions of Mankind; inſomuch that though the Pagan Theologers exceedingly err'd in appointing to themſelves Mediators, whom God never intend<g ref="char:EOLhyphen"/>ed, nor could approve; yet they had good ground for conceiving a <hi>Mediator</hi> neceſſary, at leaſt highly expedient, between the divine Majeſty, and the ſinful children of Men. It ought not to paſs for a Miſtake or a Prejudice taken up without reaſon; but for a natural and juſt apprehenſion, as will plainly appear, if we contemplate the Perfection of the divine Nature, or the Imperfection of our own.</p>
+            <pb n="11" facs="tcp:54295:9"/>
+            <p> We conceive of God, as a pure Spirit, Eternal, Incomprehenſible, Infinite in all Perfection: We feel our ſelves dependent, indigent, weak Crea<g ref="char:EOLhyphen"/>tures, at an infinite diſtance from him who made us. And although, if we had <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our Native Integrity, the conſideration of the divine Good<g ref="char:EOLhyphen"/>neſs, and our own Innocency, might have embol<g ref="char:EOLhyphen"/>den'd us to approach to him with freedom: yet being farther apprehenſive of his infinite Purity, and intimately conſcious of our Apoſtacy from him, and the impurity and diſorder we have contracted thereby, we muſt needs be aſham'd and afraid to approach to him of our ſelves, and we cannot but wiſh that we could meet with ſome Perſon worthy and fit to mediate between him and us, who would be ſo kind as to offer us his Aſſiſtance, and intro<g ref="char:EOLhyphen"/>duce us again into his Preſence and Favor.</p>
+            <p>This was that, (as I took notice in my former Lecture) which, according to the account of <hi>Moſes,</hi>
+               <note place="margin">Gen. 3.8.</note> caus'd our firſt Parents to hide themſelves from the face of God, and tremble when they heard his voice, as ſoon as ever they were conſci<g ref="char:EOLhyphen"/>ous of having tranſgreſs'd his Law, and thereupon felt themſelves naked. And 'tis the very ſame thing, which makes every Sinner, inſtead of re<g ref="char:EOLhyphen"/>penting and returning to God, be apt ſtill to run farther from him; his guilt, as well as his corrupt inclination, rendering him ſhy of approaching to him, or hoping in him. For although, what I have before obſerv'd is true, <hi>viz.</hi> that 'tis both natural and reaſonable to hope, that ſo good a Being as God is, would find out ſome way, for
+<pb n="12" facs="tcp:54295:10"/>the Recovery of ſuch Creatures as fallen Men are; yet 'tis as natural and reaſonable to be fill'd with ſhame and Fear, in the ſenſe of having offended this great and good Being, and to wiſh that ſome one might be found out to interpoſe between him and us. And therefore <hi>Job</hi> ſpeaks the language of Nature, who, though he were as apprehenſive as any Man of the divine Goodneſs, and conſcious of his own Integrity in the main; yet conſidering the greatneſs of God's Majeſty, and his own weak<g ref="char:EOLhyphen"/>neſs, both as a Man, and a Sinner, and at preſent in great diſtreſs, he makes this a part of his com<g ref="char:EOLhyphen"/>plaint,
+<note place="margin">Job 9.32, 33.</note> 
+               <hi>He is not a Man, as I am, that I ſhould an<g ref="char:EOLhyphen"/>ſwer him, and we ſhould come together in judgment; neither is there any Days-man</hi> (the Septuagint uſes the very word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Mediator) between us, who might lay his hand upon us both.</hi>
+            </p>
+            <p>That this is really the ſenſe of Nature, may yet farther appear, in that amongſt Men it is al<g ref="char:EOLhyphen"/>ways reputed fit and decent, and the propereſt Method for attaining our end, that an Inferior, who has injured or diſoblig'd his Superior, ſhould attempt a Reconciliation, by the interpoſal of ſome third Perſon well known to them both. If a Child by groſs Neglect or wilful Diſobedience has in<g ref="char:EOLhyphen"/>curr'd the diſpleaſure of a Parent, notwithſtand<g ref="char:EOLhyphen"/>ing his knowledge and experience of his Parents Affection and Tenderneſs, 'tis very natural for him to deſire ſome good Friend, who has an Intereſt in his Parent, and is more his equal, to mediate in his behalf. If a Subject has rebell'd againſt his Prince, and thereby diſhonor'd and offended him, be the Prince never ſo famous for his goodneſs
+<pb n="13" facs="tcp:54295:10"/>and clemency, yet the Rebel is naturally afraid to approach him, without the interceſſion of ſome prevalent Friend at Court. And in each of theſe Caſes, both the Father and the Prince judge it to be more fit and decent, they better like and ap<g ref="char:EOLhyphen"/>prove this manner of proceeding, than if the undu<g ref="char:EOLhyphen"/>tiful Child or Subject ſhould boldly and confident<g ref="char:EOLhyphen"/>ly intrude themſelves into their preſence. And it is lookt upon by all, as more for the Honor of the Superior, as well as the ſatisfaction of the Inferior, that this courſe ſhould be taken. It doth right to the one, by rendering his Autho<g ref="char:EOLhyphen"/>rity more awful for the future; as well as it relieves the other, by affording him aſſiſtance ſuitable to his diſtreſs, and agreeable to his wiſhes.</p>
+            <p>And if it be thus amongſt Men, why ſhould it not much more be thought a reaſonable way of proceeding between the great and holy God, and his apoſtate Creatures; when the univerſal Parent hath been diſoblig'd by his Offspring, and the Supreme Lord of all diſobey'd by his Sub<g ref="char:EOLhyphen"/>jects?</p>
+            <p>There is not indeed upon all accounts the ſame uſe of a <hi>Mediator</hi> between God and Men, as be<g ref="char:EOLhyphen"/>tween one Man and another. A Mediator between Men may be often neceſſary to remove unreaſon<g ref="char:EOLhyphen"/>able Prejudices; to rectifie Miſtakes and Miſap<g ref="char:EOLhyphen"/>prehenſions, which may have been taken up with<g ref="char:EOLhyphen"/>out cauſe; or to allay inordinate Paſſions, which may have been raiſed on one ſide as well as the o<g ref="char:EOLhyphen"/>ther. But in God, none of theſe things can be conceiv'd; He can have no unreaſonable Prejudices
+<pb n="14" facs="tcp:54295:11"/>againſt his Creatures; no Miſapprehenſions con<g ref="char:EOLhyphen"/>cerning them; no inordinate Paſſions with reſpect to them: but ſtill it may be for the honor of God, and conſequently to his ſatisfaction; as well as for the benefit of the Sinner, that a <hi>Mediator</hi> ſhould interpoſe between them, as I ſhall preſently en<g ref="char:EOLhyphen"/>deavour to ſhew more fully. Thus much I thought fit to premiſe with reſpect to this Me<g ref="char:EOLhyphen"/>thod of our Salvation in the general, <hi>viz.</hi> to ſhew the agreeableneſs and fitneſs of our Saviour's ſuf<g ref="char:EOLhyphen"/>teining the Character of a <hi>Mediator,</hi> both with reſpect to God and Man.</p>
+            <p>I proceed now to conſider more particularly, the way in which our Saviour hath executed this Office, according as the Goſpel repreſents the matter, and to evince, that upon this account alſo, <hi>This is a faith<g ref="char:EOLhyphen"/>ful Saying,</hi> &amp;c.</p>
+            <p>According to the account I have already given of the Office of a <hi>Mediator,</hi> there muſt be theſe two general Deſigns, which our Saviour muſt be ſuppos'd to have carried on in the Execution of it.</p>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="I"/> To do whatſoever might ſatisfie Almighty God, in order to his being reconcil'd to fallen Men. And</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="II"/> To do alſo whatſoever ſhould be found neceſ<g ref="char:EOLhyphen"/>ſary in behalf of fallen Men, in order to the reconciling them to God.</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> To do whatſoever might ſatisfie Almighty God, in order to his being reconcil'd to fallen Men.</p>
+            <pb n="15" facs="tcp:54295:11"/>
+            <p> Almighty God, both as he is a Being infinitely greater than his Creatures, and as he was the Per<g ref="char:EOLhyphen"/>ſon offended, ought firſt to be conſider'd in the Mediation, which was to be tranſacted; and if a<g ref="char:EOLhyphen"/>ny thing ſhould be found neceſſary, or highly expedient to be done, in order to the giving him juſt Satisfaction in the caſe, this in all reaſon ſhould be a principal part of the Mediator's care.</p>
+            <p>Now as to this, ſome perhaps might be apt to think, that nothing more could be requiſite towards the giving Satisfaction to God, than the bringing the fallen Creature to Repentance and Amendment. For what can in reaſon be expected from a weak and fallible Creature, ſuch as Man is, who was drawn into Sin in the manner I have before ex<g ref="char:EOLhyphen"/>preſs'd, but that he ſhould become throughly ſen<g ref="char:EOLhyphen"/>ſible of his folly and guilt, humbly make his ac<g ref="char:EOLhyphen"/>knowledgments to his Creator, and for the future endeavour to behave himſelf better? And how can we ſuppoſe, that a God of infinite Goodneſs, ſhould not take this as full Satisfaction from his Crea<g ref="char:EOLhyphen"/>ture?</p>
+            <p>This by a firſt and ſuperficial view of the caſe, ſome men may be apt to imagine: but if they would look more thorowly into it, and conſider the matter to the bottom, they might eaſily ſee reaſon to alter their Judgments.</p>
+            <p>I readily allow, that this is all that can be ex<g ref="char:EOLhyphen"/>pected from the Sinner, 'tis all he can do on his part, and a God of infinite goodneſs will no doubt approve of ſuch his behaviour: but notwithſtand<g ref="char:EOLhyphen"/>ing all this, there may be ſomething farther ne<g ref="char:EOLhyphen"/>ceſſary,
+<pb n="14" facs="tcp:54295:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:54295:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:54295:13"/>or at leaſt highly fit to be done for the honor of Almighty God, and which he may there<g ref="char:EOLhyphen"/>fore determine ſhall be done for his Satisfaction, before he will enter upon new Terms with his A<g ref="char:EOLhyphen"/>poſtate Creature.</p>
+            <p>For inſtance; There are two of the divine Attributes, to which more eſpecially Honor ought to be done in this caſe, namely the <hi>Holineſs</hi> of God, and his <hi>Juſtice</hi> as Governor of the World.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> The <hi>Holineſs</hi> of God.</p>
+            <p>The Epithet <hi>Holy</hi> is frequently annexed to the ſacred Name of God in Scripture, under which are comprehended all the Moral Perfections of the divine Nature, particularly his entire love of good<g ref="char:EOLhyphen"/>neſs, and his irreconcileable hatred of all Evil, or Sin. Hence he is ſaid by the Prophet, to be <hi>of purer Eyes than to behold evil,</hi>
+               <note place="margin">Habak. 1.13.</note> and that <hi>he cannot look on iniquity.</hi> He is frequently repreſented as <hi>hating ſin,</hi>
+               <note place="margin">Pſal. 5.4, 5.</note> and even <hi>the workers of iniquity,</hi> for their works ſake; as being offended, troubled, and, to ſpeak after the manner of men,
+<note place="margin">Gen. 6.6.</note> 
+               <hi>griev'd at his heart,</hi> at the folly and wickedneſs of Mankind. All which denotes, although no paſſion in God, nor ill-will to his Creatures, of both which the Perfection of his Nature renders him uncapable; yet a fixed contrariety and averſion in the divine Nature to all Moral Evil, and on the contrary a full approbation of, and inexpreſſible love to all Moral Good.</p>
+            <p>And Reaſon, as well as Scripture, aſſures us this muſt be ſo. For if there be ſo much unwor<g ref="char:EOLhyphen"/>thineſs, baſeneſs, and deformity in Sin, as I have
+<pb n="17" facs="tcp:54295:13"/>ſhew'd in my former diſcourſe; if it be ſo oppo<g ref="char:EOLhyphen"/>ſite to the nature both of God and his Creature; and the occaſion of ſo much diſorder and confuſion in the whole Creation, as I then obſerv'd; it can<g ref="char:EOLhyphen"/>not poſſibly be otherwiſe than the object of the divine hatred and diſpleaſure. The better any Creature is, the more he abhors an unhandſome, a diſhoneſt, or a wicked action; and the more he approves and takes pleaſure in Virtue and Goodneſs of all kinds; all which is nothing elſe but a faint Image of God in his Creature.</p>
+            <p>From the conſideration of all this it will appear very reaſonable, that if a <hi>Mediator</hi> ſhould interpoſe between God and Men, he ſhould provide for the honour of this divine Attribute; he ſhould take effectual care that the Holineſs or Purity of God ſhould be render'd conſpicuous to all the World, even in the manner of receiving his offending Crea<g ref="char:EOLhyphen"/>tures to Mercy; and that the Method in which God ſhould declare himſelf reconcileable to Sinners ſhould be ſuch as might conſiſt with, nay fully teſtifie and expreſs his abhorrence of their ſins. Juſt as when a tender Parent determines to forgive his repenting Child, he will chuſe to do it in ſuch a way, as at the ſame time to diſcover his real diſ<g ref="char:EOLhyphen"/>pleaſure upon account of the Offence he had given, and that in ſome proportion to the nature and qua<g ref="char:EOLhyphen"/>lity of the offence.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The <hi>Juſtice</hi> of God, as Governor of the World, was alſo to be regarded in this Caſe.</p>
+            <p>This Attribute is neceſſarily joyn'd with that be<g ref="char:EOLhyphen"/>fore mention'd. The ſupreme Lord and Governor
+<pb n="18" facs="tcp:54295:14"/>of the Univerſe muſt, from the purity of his Nature, be juſt and righteous in his Government. And therefore <hi>Abraham,</hi> in his pleading with God for <hi>Sodom,</hi> takes it for granted, that the Judge of the World would do right, and infers from thence, that he would certainly diſtinguiſh between the Righte<g ref="char:EOLhyphen"/>ous and the Wicked.
+<note place="margin">Gen. 18.25.</note> 
+               <hi>That be far from thee, to do after this manner, to ſlay the righteous with the wicked, and that the righteous ſhould be as the wicked, that be far from thee. Shall not the Judge of all the Earth do right!</hi> And as it is the part of a righteous Gover<g ref="char:EOLhyphen"/>nor, <hi>to make a difference between the righteous and the wicked;</hi> ſo it is another effect of the ſame Righte<g ref="char:EOLhyphen"/>ouſneſs, in ſhewing Mercy to repenting Offenders, to make them thorowly ſenſible of the heinouſneſs of their Offence. Thus earthly Princes are us'd to do, and 'tis eſteem'd an inſtance of Juſtice in their proceedings: and why ſhould it not in like manner be a proper inſtance of Juſtice in the great Governor of Heaven and Earth; eſpecially where the Offence had ſo much of obliquity and malignity in it, and ſo much diſorder and miſchief conſequent upon it, as in the Apoſtacy of Mankind?</p>
+            <p>The Multitude of Offenders ſtill adds weight to this Conſideration. The whole race of Mankind being corrupted, there was ſo much the greater neceſſity of their being made ſenſible of their Ma<g ref="char:EOLhyphen"/>ker's diſpleaſure, leſt they ſhould have been en<g ref="char:EOLhyphen"/>courag'd to go on in their rebellion, by an eaſie in<g ref="char:EOLhyphen"/>demnity; leſt from the <hi>ſilence</hi> of God in this caſe, they ſhould have been ſo vain as to have <hi>thought him altogether ſuch an one as themſelves;</hi>
+               <note place="margin">Halm. 50.21</note> and <hi>becauſe ſen<g ref="char:EOLhyphen"/>tence againſt</hi> their <hi>evil works</hi> was <hi>not ſpeedily</hi> or tho<g ref="char:EOLhyphen"/>rowly
+<pb n="19" facs="tcp:54295:14"/>
+               <hi>executed,</hi>
+               <note place="margin">Eccleſ. 8.11.</note> 
+               <hi>their hearts</hi> ſhould have been <hi>fully ſet in them to do evil.</hi>
+            </p>
+            <p>And if we might be allow'd to add, what we Chriſtians take for granted, as being aſſur'd of it by the Word of God,
+<note place="margin">Gen. 2.16, 17.</note> that God had given our firſt Parents a ſtrict charge, together with a ſpecial admonition and warning, as to the inſtance in which they tranſgreſs'd, adding a poſitive and ſe<g ref="char:EOLhyphen"/>vere threatning, that <hi>in the day</hi> in which they tranſ<g ref="char:EOLhyphen"/>greſs'd, <hi>they ſhould ſurely dye;</hi> this ſtill makes it more requiſite, that the Juſtice of God ſhould be pub<g ref="char:EOLhyphen"/>lickly vindicated, before he ſhould offer terms of Reconciliation; and that if he ſhould in Mercy forbear to execute the threatning in its utmoſt ſe<g ref="char:EOLhyphen"/>verity, yet he ſhould however make the Sinner thorowly ſenſible of his deſert.</p>
+            <p>I might have added here, that it was very fit, that the <hi>Wiſdom</hi> of God, as well as his <hi>Juſtice</hi> in governing the World, ſhould be regarded by our <hi>Mediator;</hi> it being evidently an inſtance of <hi>Wiſdom</hi> in a Governor, to render his Authority awful and venerable to his Subjects, and never to appear ſo ſoft and eaſie as to paſs by notorious diſobedience, without making ſome ſevere remarks upon it.</p>
+            <p>I might farther have obſerv'd, that there was no way ſo likely to recover the Sinner to repentance, as by thus manifeſting the divine Purity, Juſtice, and Wiſdom, in order to the awakening in him a ſenſe of his fault and his danger, and the engaging him to take greater care for the time to come. But this may come into conſideration more properly in another place. It may ſuffice here to have obſerv'd, that it was very agreeable to the conceptions we
+<pb n="20" facs="tcp:54295:15"/>have both of the divine Nature and our own, that ſomething ſhould be done by our <hi>Mediator,</hi> by way of ſatisfaction to Almighty God, for the diſhonor which had been done to his Attributes by the A<g ref="char:EOLhyphen"/>poſtacy of Men.</p>
+            <p>What remains upon this Head is to ſhew, that the particular Method which our <hi>Media or</hi> hath ta<g ref="char:EOLhyphen"/>ken, did eminently tend to theſe purpoſes.</p>
+            <p>'Tis true, that all the Evils, which have befal<g ref="char:EOLhyphen"/>len the children of Men, ſince their Apoſtacy from God, have been ſo many expreſſions and teſtimo<g ref="char:EOLhyphen"/>nies of God's hatred of Sin, and his love of Holi<g ref="char:EOLhyphen"/>neſs, as alſo of the Juſtice and Wiſdom of his Government; but upon ſerious and impartial conſi<g ref="char:EOLhyphen"/>deration of our bleſſed Saviour's undertaking, we ſhall be forc'd to confeſs, that greater honor hath been given thereby to God, than by all the Suffer<g ref="char:EOLhyphen"/>ings which any of the reſt of the children of Men have undergone; and that if we do but thorowly lay to heart what he, ſo great and excellent a Per<g ref="char:EOLhyphen"/>ſon, hath voluntarily done and ſuffer'd upon our account, it will tend more effectually than any o<g ref="char:EOLhyphen"/>ther Method we can think of, to the making us ſenſible of the evil and danger of offending ſo holy and righteous a Being as God is. For</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Our <hi>Mediator</hi> gave honor to theſe Attributes of God, by aſſerting, and publiſhing, and explaining the Law of God which had been violated by Men; I mean the great Law of Nature, divided into two Tables, requiring the Love of God and Man; which, as they were the two conſtitutive parts of the natural or moral, ſo they are alſo of the Chri<g ref="char:EOLhyphen"/>ſtian Law.</p>
+            <pb n="21" facs="tcp:54295:15"/>
+            <p> What our Lord declar'd over and above the meer Law of Nature, namely concerning the Mercy of God in forgiving Sinners upon their Re<g ref="char:EOLhyphen"/>pentance and Faith in him, was become neceſſary by reaſon of tranſgreſſion; and even in making Repentance and Faith the conditions of acceptance, he hath in an eminent manner done right to God and his Law. For Repentance implys an acknowledgment of our unworthineſs in offending God by violating the Law he had given us; and Faith in God through a <hi>Mediator</hi> implys our ſenſe of guilt, and need of Mercy.</p>
+            <p>But beſides this, our Lord did openly declare the Righteouſneſs of the divine Law, as firſt given to Man, by explaining it fully, and inculcating it afreſh upon us, and inſiſting upon the abſolute neceſſity of a ſincere Obedience to it, even in this imperfect State, in which we are not capable of yielding that which is abſolutely perfect.</p>
+            <p>This appears by the Anſwer our Saviour gave to the Lawyer,
+<note place="margin">Matth. 22.37, 38, 39, 40.</note> telling him that <hi>the Love of God and our Neighbour</hi> were <hi>the two great Commandments of the Law,</hi> and that theſe were indeed <hi>the Sum of the Law and the Prophets:</hi> but eſpecially by his admirable Diſcourſe upon the Mount,
+<note place="margin">Mat. 5.17, <hi>&amp;c.</hi>
+               </note> wherein he vindicates the Natural or Moral Law of God, from all the falſe Gloſſes which the Jewiſh Doctors had put up<g ref="char:EOLhyphen"/>on it, declaring the neceſſity of regarding even <hi>the leaſt of its Precepts,</hi> by thoſe who hoped to partake of the Kingdom of Heaven; expreſly aſſuring them, that <hi>he came not to deſtroy the law, but to fulfil it,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (one way of doing which was by interpreting it in its fulleſt latitude and extent;) and
+<pb n="22" facs="tcp:54295:16"/>finally, that <hi>till heaven and earth paſs away, one jot or one tittle ſhall in no wiſe paſs from the Law, till all be fulfill'd;</hi> as much as to ſay, that the reaſon of it is immutable, and conſequently the obligation everlaſting.</p>
+            <p>But of this I may have occaſion to diſcourſe more at large, when I come to conſider what our <hi>Mediator</hi> hath done towards the relieving our ne<g ref="char:EOLhyphen"/>ceſſities; 'tis enough in this place to have men<g ref="char:EOLhyphen"/>tion'd it, as one inſtance whereby the righteouſneſs of the divine Law was vindicated, and conſequent<g ref="char:EOLhyphen"/>ly honor given to the Purity, and Juſtice, and Wiſ<g ref="char:EOLhyphen"/>dom of God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Our <hi>Mediator</hi> gave honor to theſe Attributes, in complying ſtrictly and fully with the Law of God in his own Perſon, and thereby giving a complete inſtance of Obedience in that Nature which had tranſgreſs'd.</p>
+            <p>This was to vindicate the Law of God in a re<g ref="char:EOLhyphen"/>markable manner, by ſhewing the agreeableneſs and fitneſs of it to humane Nature, when the Son of God, appearing in this Nature, made it the Rule of his Life, and thereby not only teſtified his approbation of it; but alſo ſhew'd the capacity of humane Nature, whilſt innocent and untainted, and attended with the Grace of God to comply perfectly with it. This was in truth a glorious Triumph over Sin and Satan, when our Nature aſſum'd by the Son of God, appear'd in that inſtance like it ſelf, as it came out of God's hands, perfectly pure and obedient; and our Saviour might well ſay as he did,
+<note place="margin">John 17.4.</note> when he was leaving the World, <hi>Father, I have glorified thee on Earth, I have finiſh'd the work
+<pb n="23" facs="tcp:54295:16"/>which thou gaveſt me to do.</hi> He had done ſo, both as <hi>Man,</hi> and as our <hi>Mediator.</hi>
+            </p>
+            <p>But of this alſo, <hi>viz.</hi> the life of our bleſſed Savi<g ref="char:EOLhyphen"/>our, as it was an example for our imitation, I ſhall have occaſion to diſcourſe hereafter, and therefore do but juſt mention it here, as another inſtance wherein our <hi>Mediator</hi> glorified the Attributes of God, by his coming into the World. But</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> He did ſo in the higheſt degree, by all the Suf<g ref="char:EOLhyphen"/>ferings which de underwent upon our account.</p>
+            <p>It was not it ſeems ſufficient for our <hi>Mediator</hi> to declare and publiſh the divine Law afreſh; nor to give an inſtance of perfect Obedience to it in his own perſon: but it was judg'd requiſite alſo, that he ſhould ſubmit to an afflicted and ſuffering con<g ref="char:EOLhyphen"/>dition, and at laſt yield himſelf to be offer'd up as a Sacrifice upon the Croſs, to teſtifie, in the moſt ſignificant manner that was poſſible, the fixed love of God to Righteouſneſs, his unalterable hatred of Sin, his impartial juſtice in governing the World, the excellency of the Laws which he had given to Men, and the danger of tranſgreſſing them.</p>
+            <p>Such was the nature of the Offence given to God by Man's Apoſtacy, and ſo bad were the circum<g ref="char:EOLhyphen"/>ſtances of Mankind, that it ſeem'd expedient to the great Father and Lord of all, that our <hi>Mediator</hi> ſhould voluntarily humble himſelf in this extraor<g ref="char:EOLhyphen"/>dinary manner. The Son of God was admitted to be our <hi>Mediator,</hi> upon no lower Terms than theſe; as is plainly intimated by the Author to the <hi>Hebrews,</hi> when citing a paſſage out of a prophetical Pſalm, he applies it to our Saviour, and repreſents him as ſaying to his Father, when he came into the World,
+<pb n="24" facs="tcp:54295:17"/>
+               <hi>Sacrifice and Offering thou wouldſt not:</hi>
+               <note place="margin">Heb. 10.5, 6.</note> 
+               <hi>but a Body haſt thou prepared me. In burnt-offerings and ſacrifices for ſin thou haſt had no pleaſure. Then ſaid I, Lo I come (in the Volume of the Book it is written of me) to do thy will O God; by which will</hi> (as he adds a little af<g ref="char:EOLhyphen"/>ter) <hi>we are ſanctified,</hi>
+               <note place="margin">Ver. 10.</note> 
+               <hi>through the offering of the Body of Jeſus Chriſt once for all.</hi>
+            </p>
+            <p>And upon our <hi>Mediator</hi>'s thus ſuffering for us, new terms of Mercy and Reconciliation were offer'd to us, upon which account he himſelf calls his Bloud,
+<note place="margin">Mat. 26.28.</note> 
+               <hi>the Bloud of the new Covenant; viz.</hi> that Bloud in the ſhedding of which the new Covenant between God and Man, for acceptance upon Repen<g ref="char:EOLhyphen"/>tance and Faith, was made and ratified.</p>
+            <p>The Sufferings of our Lord are throughout the Holy Scriptures repreſented, as making expiation for the Sins of Men; and particularly his death upon the Croſs, as it is made to anſwer all the expiatory Sacrifices under the Law, ſo it is it ſelf frequently Styled, a Sacrifice and Offering for Sins, and repre<g ref="char:EOLhyphen"/>ſented as the means of God's being reconciled to us; and ſo it evidently was, in as much as by this means the Sins of Men were ſo openly condemn'd, the Righteouſneſs of God's Law ſo notoriouſly declar'd, and by conſequence the Holineſs and Juſtice of God ſo conſpicuouſly honor'd in the view of the World; which certainly may be reaſonably call'd, giving Satisfaction to God.</p>
+            <p>This Doctrine of our Saviour's offering up himſelf as a Sacrifice for the Sins of the World, and thereby giving Satisfaction to the great Lord of all, is ſo fully declar'd throughout the New Teſtament, and particularly in one whole Epiſtle, Written, as it
+<pb n="25" facs="tcp:54295:17"/>ſhould ſeem, to that very purpoſe, I mean that to the <hi>Hebrews,</hi> that I knew not how to do right to Chriſtianity, without thus plainly aſſerting it.</p>
+            <p>I know, that according to the Will of our pious and charitable Founder, I am <hi>not to deſcend to any Controverſies that are amongſt Chriſtians themſelves,</hi> and therefore I ſhall not make this <hi>a Controverſie,</hi> but take it for granted, as what is not only fully aſſerted in holy Writ, and agreeable to the ſenſe of the moſt primitive Chriſtian Antiquity, as well as the judgment of the main Body of Chriſtians throughout every age; but what belongs to the true Chriſtian Scheme, and is neceſſary to render it entire and of a piece. And though I would be very loth to deny the Title of <hi>Chriſtian,</hi> to any man who ſeriouſly lays claim to it, and in ſo ſceptical an Age as this, to leſſen the number of Chriſtian Profeſſors: yet I muſt not, for the ſake of ſuch as deſert the Chriſtianity which we are taught by the Scriptures, over-look ſo prime a branch of it as this is. Let thoſe, who call them<g ref="char:EOLhyphen"/>ſelves by this Name, and yet deny that ſatisfaction was made to God by the Sufferings of Chriſt for the ſins of Men, reconcile their Title and their opinion as well as they can: My buſineſs is to aſſert and vindicate the truth of the Chriſtian Religion, as exhibited to us in the Goſpel; and I am ſo far from thinking the Doctrine of Expiation, and Satisfaction made by the Death of Chriſt, an objection againſt the Chriſtian Revelation, that I have judg'd it neceſſary to inſiſt upon it, as one admirable inſtance of the Excellency of that Me<g ref="char:EOLhyphen"/>thod,
+<pb n="26" facs="tcp:54295:18"/>in which our <hi>Mediator</hi> hath obtain'd Salva<g ref="char:EOLhyphen"/>tion for us.</p>
+            <p>The Sum of what I have ſaid upon this Argu<g ref="char:EOLhyphen"/>ment is, that our Lord, when he came into the World, took upon him the Character of a <hi>Media<g ref="char:EOLhyphen"/>tor,</hi> and that he executed his Mediatorial Office, partly by doing that which was greatly for the honor of his Heavenly Father, the Perſon offended, and conſequently well-pleaſing and ſatisfactory to him, making this the firſt ſtep in procuring Recon<g ref="char:EOLhyphen"/>ciliation between God and Men.</p>
+            <p>The buſineſs of my next Diſcourſe will be, to pro<g ref="char:EOLhyphen"/>ceed to ſhew how our Lord hath farther executed the ſame Office, by providing for the Neceſſities of Men. I ſhall conclude at preſent with two ſhort Inferences from what has been now offer'd.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> If what I have ſaid upon this Subject be true, it ſhews us how little Chriſtianity is beholden to thoſe, who attempt to <hi>leſſen</hi> the Perſon of our <hi>Mediator.</hi>
+            </p>
+            <p>This inference will appear juſt, if we do but obſerve, that by how much the greater and more conſiderable the Perſon of our <hi>Mediator</hi> is, by ſo much the better qualified he muſt alſo be for the obtaining Salvation for us; and particularly by ſo much the greater will that honor be, which is done to the Attributes of God by his Doctrine, and eſpe<g ref="char:EOLhyphen"/>cially by his Actions and his Sufferings.</p>
+            <p>It muſt certainly, in the account of any rea<g ref="char:EOLhyphen"/>ſonable Man, be a more full and ample declaration
+<pb n="27" facs="tcp:54295:18"/>of the Holineſs and Juſtice of God, for a Perſon ſo near to the Father, as the Scriptures repreſent our <hi>Mediator</hi> to be, firſt to condeſcend ſo low as to aſſume our Nature, and then to do and ſuffer ſo much upon our account; than for one that was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a meer Son of <hi>Adam,</hi> to have done it. The dignity of the Perſon tranſacting this af<g ref="char:EOLhyphen"/>fair, muſt needs add weight to all that was done by him.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> If this be true, what awful thoughts ought we to have of Almighty God! what regard to his Purity, and Juſtice, and his Authority over us! what fear of diſhonoring and offending ſo Excellent a Majeſty! what a dread of wilfully violating any of his known Laws for the future! When he thought fit, notwithſtanding the infinite Goodneſs of his Nature, not to offer us Terms of Mercy, but in the Method of the Goſpel; when he would not treat with us at all without a <hi>Mediator;</hi> and when, having appointed his own Son to that Office, he was pleas'd to found and ratifie a New Covenant with us in his Bloud.</p>
+            <p>The reaſoning of the Apoſtle is unanſwerable, both with reſpect to the former part of this Diſ<g ref="char:EOLhyphen"/>courſe, and the latter. <hi>How ſhall we eſcape,</hi>
+               <note place="margin">Heb. 2.3.</note> 
+               <hi>if we neglect ſo great Salvation!</hi> And, <hi>If we ſin wilfully,</hi>
+               <note place="margin">Chap. 10.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</note> 
+               <hi>after we have receiv'd the knowledge of the Truth, i. e.</hi> if we either Apoſtatize from our Chriſtian Profeſſi<g ref="char:EOLhyphen"/>on, or which comes to the ſame iſſue,
+<note place="margin">ver. 27.</note> live in plain contradiction to the Profeſſion we make; <hi>there re<g ref="char:EOLhyphen"/>maineth no more Sacrifice for ſins;</hi> (no greater can be made) <hi>but a certain fearful looking for of judgment,
+<pb n="28" facs="tcp:54295:19"/>and fiery indignation, which ſhall devour the adverſa<g ref="char:EOLhyphen"/>ries;</hi>
+               <note place="margin">Heb. 10.29.</note> this, as he adds, being <hi>to tread under foot the Son of God, and to count the bloud of the Covenant, wherewith he was ſanctified, an unholy thing,</hi> beſides, <hi>doing deſpite to the Spirit of Grace.</hi>
+            </p>
+            <p>
+               <hi>May Almighty God preſerve us all from ſuch Apo<g ref="char:EOLhyphen"/>ſtacy, in this degenerate Age; may he, if it be poſſible, recover ſuch as be fallen; and may he give us all Grace, not only to adhere to the Profeſſion of Chriſtianity, but alſo to bring Reputation to it, by a ſuitable Practice; through Jeſus Chriſt our only Mediator and Advocate,
+<milestone type="tcpmilestone" unit="unspecified" n="III"/> to whom, with the Father, and the Eternal Spirit, our great Creator, Redeemer, and Sanctifier, be aſcribed all Honor and Glory now and for ever,</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <list>
+               <item>The Firſt SERMON. <hi>The Qualifications requiſite, towards the Re<g ref="char:EOLhyphen"/>ceiving a Divine Revelation.</hi>
+               </item>
+               <item>The Second SERMON. <hi>Apoſtate Men fit Objects of Divine Care and Compaſſion.</hi>
+               </item>
+               <item>The Third SERMON. <hi>The Nature of that Salvation, which the Goſpel offereth; and the Method of obtaining it, by a Mediator.</hi>
+               </item>
+            </list>
+            <p>Theſe three by Mr. <hi>Bradford,</hi> and Printed for <hi>Tho. Parkhurſt.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
